@@ -1,0 +1,26 @@
+{
+  "name": "netmagic-vms",
+  "version": "1.0.0",
+  "description": "Visitor Management System",
+  "main": "main.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webonise/NetMagic-vms-app.git"
+  },
+  "author": "Abhinav Bahiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webonise/NetMagic-vms-app/issues"
+  },
+  "homepage": "https://github.com/webonise/NetMagic-vms-app#readme",
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-router": "^2.7.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.0"
+  }
+}
