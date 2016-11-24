@@ -4,6 +4,7 @@ Beginners can clone this repository and start working on it.
 Requirements & Things to do:-
 
 1.) You have to install Node and NPM on your system.
+	OR for windows https://nodejs.org/en/download/ install node then run it as an Admin	
 
 2.) Clone this repository in a folder.
 
